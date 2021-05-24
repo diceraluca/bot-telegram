@@ -4,7 +4,7 @@
 		//inserite vostro indirizzo su heroku 
 		//https://username.herokuapp.com/execute.php
 		//inserisci l'ure dell'execute su heroku es: https://telegram2.herokuapp.com/execute.php
-		$WEBHOOK_URL = ' https://marzolino90.herokuapp.com/';
+		$WEBHOOK_URL = 'https://marzolino90.herokuapp.com/';
 		//inserite il vostro token che vi ha fornito l'utente telegram @botfather
 		$BOT_TOKEN = '1841625500:AAFz-bzPHLA1bTxqywwnBYujSxx6VlS_MmI';
 
